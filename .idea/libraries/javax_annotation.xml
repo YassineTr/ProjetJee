@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="javax.annotation">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/javax/javax.annotation.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/javax/javax.ejb.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/javax/javax.jms.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/javax/javax.persistence.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/javax/javax.resource.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/javax/javax.servlet.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/javax/javax.servlet.jsp.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/javax/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/javax/javax.transaction.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
